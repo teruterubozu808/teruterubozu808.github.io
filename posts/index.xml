@@ -8,13 +8,13 @@
     <language>ja</language>
     <lastBuildDate>Fri, 12 Feb 2021 22:56:45 +0900</lastBuildDate><atom:link href="http://teruterubozu808.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Page</title>
-      <link>http://teruterubozu808.github.io/posts/testpage/</link>
+      <title>test page作成</title>
+      <link>http://teruterubozu808.github.io/posts/test/</link>
       <pubDate>Fri, 12 Feb 2021 22:56:45 +0900</pubDate>
       
-      <guid>http://teruterubozu808.github.io/posts/testpage/</guid>
-      <description>このページは作成中です。
-ついでにmarkdown記法の練習をやっています。 慣れたらいろいろ書きます。</description>
+      <guid>http://teruterubozu808.github.io/posts/test/</guid>
+      <description>テストページの作成 まだmarkdown方式での記述に慣れていないので
+簡単なことからやっていこうかなと思っています。</description>
     </item>
     
   </channel>
