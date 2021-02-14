@@ -6,7 +6,20 @@
     <description>Recent content in Posts on Welcom to my website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Feb 2021 22:56:45 +0900</lastBuildDate><atom:link href="http://teruterubozu808.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 14 Feb 2021 23:38:53 +0900</lastBuildDate><atom:link href="http://teruterubozu808.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Korg Gadget2</title>
+      <link>http://teruterubozu808.github.io/posts/korg/</link>
+      <pubDate>Sun, 14 Feb 2021 23:38:53 +0900</pubDate>
+      
+      <guid>http://teruterubozu808.github.io/posts/korg/</guid>
+      <description>楽器いろいろ うちのmacにはずっとkorg Gadget for macというのが入っていました。
+これがupdateしてKorg Gadget2になったのはだいぶなのですが、 更新するタイミングを逃してしまっていました。
+それで、もうそろそろ更新しとこうかなと思ってupgrade版のお金を 払ってKorg Gadget2にupgradeしました。
+特に大きく使い方が変わったわけではなく、選択できるgadgetが増えた のが違いでしょうか？ipad版の方が一つずつ有料gadgetを買うスタイル なのですが、mac版(PC版)はあらかじめフルパッケージがインストール されるスタイル。gadgetを買うか買わないか迷う必要が無いのがよいです。
+ipad版にはけっこうお世話になったんですが、mac版も改めて使ってみると 便利ですね。せっかくなんでいろいろ試していこうかと思っています。</description>
+    </item>
+    
     <item>
       <title>test page作成</title>
       <link>http://teruterubozu808.github.io/posts/test/</link>
