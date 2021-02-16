@@ -1,33 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Welcom to my website</title>
+    <title>Posts on acoustic-vibes</title>
     <link>http://teruterubozu808.github.io/posts/</link>
-    <description>Recent content in Posts on Welcom to my website</description>
+    <description>Recent content in Posts on acoustic-vibes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Feb 2021 23:38:53 +0900</lastBuildDate><atom:link href="http://teruterubozu808.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 22:34:21 +0900</lastBuildDate><atom:link href="http://teruterubozu808.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Korg Gadget2</title>
-      <link>http://teruterubozu808.github.io/posts/korg/</link>
-      <pubDate>Sun, 14 Feb 2021 23:38:53 +0900</pubDate>
+      <title>最近の取り組み</title>
+      <link>http://teruterubozu808.github.io/posts/01/</link>
+      <pubDate>Tue, 16 Feb 2021 22:34:21 +0900</pubDate>
       
-      <guid>http://teruterubozu808.github.io/posts/korg/</guid>
-      <description>楽器いろいろ うちのmacにはずっとkorg Gadget for macというのが入っていました。
-これがupdateしてKorg Gadget2になったのはだいぶなのですが、 更新するタイミングを逃してしまっていました。
-それで、もうそろそろ更新しとこうかなと思ってupgrade版のお金を 払ってKorg Gadget2にupgradeしました。
-特に大きく使い方が変わったわけではなく、選択できるgadgetが増えた のが違いでしょうか？ipad版の方が一つずつ有料gadgetを買うスタイル なのですが、mac版(PC版)はあらかじめフルパッケージがインストール されるスタイル。gadgetを買うか買わないか迷う必要が無いのがよいです。
-ipad版にはけっこうお世話になったんですが、mac版も改めて使ってみると 便利ですね。せっかくなんでいろいろ試していこうかと思っています。</description>
-    </item>
-    
-    <item>
-      <title>test page作成</title>
-      <link>http://teruterubozu808.github.io/posts/test/</link>
-      <pubDate>Fri, 12 Feb 2021 22:56:45 +0900</pubDate>
-      
-      <guid>http://teruterubozu808.github.io/posts/test/</guid>
-      <description>テストページの作成 まだmarkdown方式での記述に慣れていないので
-簡単なことからやっていこうかなと思っています。</description>
+      <guid>http://teruterubozu808.github.io/posts/01/</guid>
+      <description>非定期で楽器類をupdateしています。
+最近やったのはこんな感じ。
+ KORG Gadget for macをUpgrade　→KORG Gadget2 nano KONTROL Studioを導入 こっそりMV50 cleanを導入(実はキャビット(BC-112)も気になる)  あとは、手持ちのvolcaを全部つなげてみたり、ドラムマシンをいじってみたり&amp;hellip;。
+ということの合間にmarkdown記法を試してみたくなってGitHub Pagesを使ってみることにしました(←いまこの辺)
+時間は、いくらあってもすぐ足りなくなるものですね。</description>
     </item>
     
   </channel>
